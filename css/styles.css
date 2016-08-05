@@ -2,6 +2,10 @@ body {
   background-color: gray;
 }
 
+img {
+  margin-bottom: 3px;
+}
+
 .custom-box {
   border: 2px solid black;
   border-radius: 3px;
