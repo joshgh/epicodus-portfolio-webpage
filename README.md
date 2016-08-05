@@ -14,7 +14,7 @@ _Just visit https://joshgh.github.io/epicodus-portfolio-webpage in your browser 
 
 ## Known Bugs
 
-_No issues with the website at this time_
+_The carousel height resizes with the images, would like for it to stay fixed._
 
 ## Support and contact details
 
