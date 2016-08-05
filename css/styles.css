@@ -1,14 +1,34 @@
 body {
   background-color: gray;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 
-img {
+img, .row .custom-box {
+  margin-top: 3px;
   margin-bottom: 3px;
 }
 
-.custom-box {
+img, .custom-box {
   border: 2px solid black;
-  border-radius: 3px;
+}
+
+img.place {
+  width: 40%;
+  height: auto;
+  float: left;
+  border: none;
+}
+
+div.place {
+  clear: both;
+}
+
+.place img {
+  margin-right: 5px;
+}
+
+.custom-box {
+  border-radius: 6px;
   padding: 8px;
   background-color: white;
 }
